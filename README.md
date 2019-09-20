@@ -2,4 +2,4 @@
 
 Team members: Drake Rutherford
 
-To run the code, simply run Main.class
+The code is in the Eclipse project Rutherford_DrakePA1. If using Eclipse, the easiest way to run this code is to clone the repo with EGit and extract the project. The main method is, predictably, under the Main class in the main package.
