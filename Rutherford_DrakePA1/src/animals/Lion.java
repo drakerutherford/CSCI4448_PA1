@@ -12,7 +12,7 @@ public class Lion extends Feline
 	@Override
 	public String makeNoise()
 	{
-		return super.name + " lets out a majestic roar.";
+		return "lets out a majestic roar.";
 	}
 
 }
